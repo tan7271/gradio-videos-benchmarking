@@ -1,0 +1,7 @@
+{
+  "questions" : [
+    "Did the valve turn clockwise 45 degrees?",
+    "Did the valve get turned at all?",
+    "Did the pipe of the valve move?"
+  ]
+}
